@@ -1,0 +1,5 @@
+palabra 1
+palabra 2
+perro
+palabra 2
+gato
