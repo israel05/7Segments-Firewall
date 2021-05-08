@@ -2,6 +2,11 @@
 # -*- coding: utf-8 -*-
 # Copyright (c) 2017-18 Richard Hull and contributors
 # See LICENSE.rst for details.
+#  VCC RPI a 2
+# GND a 6
+#DIN a 19
+#CS a 24
+#CLS a 23
 
 """
 Example for seven segment displays.
